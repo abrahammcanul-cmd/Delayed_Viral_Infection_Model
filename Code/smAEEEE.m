@@ -1,5 +1,5 @@
 function smAEEEE
-%figura 8
+%figure 8
 %0.1
 %clear all
 %clc
@@ -124,3 +124,4 @@ Tau=T;
     positive_solutions = [x_sol(valid_indices), y_sol(valid_indices), v_sol(valid_indices)];
 
     
+
